@@ -272,5 +272,5 @@ This will serve as the foundation for the **Stage-3 Model Pipeline** and **Stage
 ---
 
 ## 📄 License
-This project is for academic use under the IE7305 MLOps course guidelines.
+This project is for academic use under the IE7305 MLOps course guidelines
 
